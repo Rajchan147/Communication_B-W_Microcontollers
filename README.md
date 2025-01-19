@@ -14,7 +14,7 @@ The project is designed in two stages to represent a motorcycle safety system:
    - Another ESP32 module is mounted on the helmet and equipped with an alcohol sensor for continuous monitoring.  
    - This ESP32 would ideally communicate with the motorcycle's ESP32 via the ESP-NOW protocol.  
    - However, since Wokwi does not support Wi-Fi or Bluetooth simulation, the communication between the ESP32 modules is represented visually with serial communication as a substitute.
-   - [ESP-Receive](https://wokwi.com/projects/415092125747458049) [ESP-Send](https://wokwi.com/projects/415092094254523393)
+   - [ESP-Receive](https://wokwi.com/projects/415092125747458049), [ESP-Send](https://wokwi.com/projects/415092094254523393)
 
 ### Key Insights
 - The YouTube video by Tech StudyCell was instrumental in understanding serial communication between two ESP32 modules.  
